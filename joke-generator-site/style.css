@@ -1,0 +1,22 @@
+*{
+margin: none;
+padding: none;
+
+}
+#j{
+     color: brown;
+    width: 50vmax;
+    height: 25vmax;
+    background-color: aquamarine;
+    margin-left: 50vmin;
+    margin-top: 20vmin;
+    font-size: xx-large;
+    font-weight: 300;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
